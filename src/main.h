@@ -2283,5 +2283,5 @@ public:
         READWRITE(txn);
     )
 };
-
+//POD-CryptoAsian
 #endif
